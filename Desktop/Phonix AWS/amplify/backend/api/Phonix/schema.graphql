@@ -1,0 +1,14 @@
+type Phonix @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Name: String
+  Email: AWSEmail
+  URL: AWSURL
+  Address: AWSIPAddress
+  Disablity: Boolean
+  Date: AWSDate
+  Time: AWSTime
+  Phone_No: AWSPhone
+  UserNumber: Float
+  CompanyName: String
+}
+ 

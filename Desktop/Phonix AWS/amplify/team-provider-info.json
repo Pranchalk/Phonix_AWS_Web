@@ -1,0 +1,27 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-phonix-staging-155537-authRole",
+      "UnauthRoleArn": "arn:aws:iam::194500133275:role/amplify-phonix-staging-155537-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::194500133275:role/amplify-phonix-staging-155537-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-phonix-staging-155537-deployment",
+      "UnauthRoleName": "amplify-phonix-staging-155537-unauthRole",
+      "StackName": "amplify-phonix-staging-155537",
+      "StackId": "arn:aws:cloudformation:us-east-1:194500133275:stack/amplify-phonix-staging-155537/dbad1a70-b550-11ee-923a-0ebe543f3451",
+      "AmplifyAppId": "d3vm63bx201x7j"
+    },
+    "categories": {
+      "function": {
+        "PhoniXFunc": {
+          "venv": "9"
+        },
+        "PranchalFunction": {}
+      },
+      "auth": {
+        "phonix570e072f": {},
+        "phonix": {}
+      }
+    }
+  }
+}
